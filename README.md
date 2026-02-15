@@ -9,7 +9,7 @@ Generate GeoJSON file of POIs and street network with in walking distance from d
 
 **Required python packages**
 
-[shapley](https://github.com/shapely/shapely)\
+[shapely](https://github.com/shapely/shapely)\
 [geopandas](https://github.com/geopandas/geopandas)\
 [netwworkx](https://github.com/networkx/networkx)\
 [osmnx](https://github.com/gboeing/osmnx)
