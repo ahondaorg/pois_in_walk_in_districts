@@ -11,7 +11,7 @@ Generate GeoJSON file of POIs and street network with in walking distance from d
 
 [shapely](https://github.com/shapely/shapely)\
 [geopandas](https://github.com/geopandas/geopandas)\
-[netwworkx](https://github.com/networkx/networkx)\
+[networkx](https://github.com/networkx/networkx)\
 [osmnx](https://github.com/gboeing/osmnx)
 
 **Screenshot of data visualization**
