@@ -16,6 +16,6 @@ Generate GeoJSON file of POIs and street network with in walking distance from d
 
 **Screenshot of data visualization**
 
-Data visualization of generated file on QGIS. Red line represents district border, blue line: walking path in given minutes from district center, green circle: reachable POI. 
+Data visualization of generated file on QGIS. Red line represents district border, blue line: possible walking path in given minutes from district center, green circle: reachable POI. 
 
 ![screenshot](screenshot/poi_in_district.png)
